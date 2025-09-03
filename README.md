@@ -9,7 +9,7 @@ This repository contains my homework assignments and final project for the **Dee
 - **HW1:**  
   - Self-supervised image classification with BYOL
   - Semantic segmentation with VGG16-FCN32s and ResNet50-DeepLabV3  
-  - Applied Meta’s SAM for segmentation masks  
+  - Applied Meta's SAM for segmentation masks  
 
 - **HW2:**  
   - Conditional diffusion models (DDPM) on MNIST-M and SVHN  
@@ -19,7 +19,7 @@ This repository contains my homework assignments and final project for the **Dee
 - **HW3:**  
   - Zero-shot image captioning with LLaVA  
   - Parameter-efficient fine-tuning (LoRA) for image captioning  
-  - Attention map visualization for image–text alignment  
+  - Attention map visualization for image-text alignment  
 
 - **HW4:**  
   - 3D Gaussian Splatting for real-time radiance field rendering  
